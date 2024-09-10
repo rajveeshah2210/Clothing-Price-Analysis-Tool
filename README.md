@@ -41,12 +41,9 @@ This tool performs a **comprehensive analysis of clothing prices** across variou
    - Run the main Java file (`Main.java`).
    - Follow the on-screen prompts to search, filter, and receive notifications for clothing items.
 
-## Authors
+## Contributors
 - Jayati Sakervala
 - Tirthkumar Patel
 - Jinal Barot
 - Rajvee Shah
 - Somashekar Venkatamadegowda
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
